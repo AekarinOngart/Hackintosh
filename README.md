@@ -52,7 +52,7 @@
 ## KEXT UPDATER ใช้สำหรับอัพเดท Kext ให้เป็นเวอร์ชั่นใหม่ ๆ
 ### https://www.hackintosh-forum.de/forum/thread/32621-kext-updater-neue-version-3-x/
 
-## Have a good day.
+#### Have a good day.
 
-####recommend : Be aware that macOS Big Sur's EFI has not been thoroughly tested.
-####latest update : 2/5/2021
+#### recommend : Be aware that macOS Big Sur's EFI has not been thoroughly tested.
+#### latest update : 2/5/2021
