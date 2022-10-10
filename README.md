@@ -60,4 +60,4 @@ Have a good day.
 -
 #asus #zenbook #ux333 #ux433 #ux533 #i58265u #uhd620
 recommend : Be aware that macOS Big Sur's EFI has not been thoroughly tested.
-latest update : 2/5/2564
+latest update : 2/5/2021
