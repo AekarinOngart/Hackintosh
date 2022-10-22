@@ -1,4 +1,5 @@
 # Hackintosh-Opencore0.6.8-UX333
+
 ## EFI Opencore 0.6.8 ของ Asus Zenbook รุ่น UX333 UX433 และ UX533
 ### (ใช้ได้ทั้ง 3 รุ่นเลยนะครับ สเปคเหมือนกัน ต่างแค่หน้าจอ)
 ## Specifications
